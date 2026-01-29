@@ -9,7 +9,7 @@ export default function Header() {
       <Link to="/about" className="text-lg font-semibold hover:text-orange-500">
         About
       </Link>
-      <Link to="/about" className="text-lg font-semibold hover:text-orange-500">
+      <Link to="/projects" className="text-lg font-semibold hover:text-orange-500">
         Projects
       </Link>
     </header>
